@@ -1,0 +1,17 @@
+#button {
+  width: 12em;
+  height: 3em;
+  font-size: 6em;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.purple {
+  background-color: purple;
+}
