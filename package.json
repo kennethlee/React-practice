@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-    "babel": {
+  "babel": {
     "presets": [
       "es2015",
       "react"
@@ -25,6 +25,7 @@
     "webpack-dev-server": "^1.14.1"
   },
   "dependencies": {
+    "chance": "^1.0.0",
     "react": "^0.14.7",
     "react-dom": "^0.14.7"
   }
